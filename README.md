@@ -1,2 +1,19 @@
-Spell-Recommendation-System
-A Python app with a user-friendly interface for correcting spelling mistakes and providing word suggestions. Built with tkinter, it uses a Trie data structure to efficiently find and suggest words based on a loaded text file. The app allows users to add their own text files and get instant corrections as they type.
+# Spelling Correction and Word Recommendations
+
+This project is a GUI-based spelling correction and word recommendation tool built using Python's `tkinter` library. It allows users to correct the spelling of input words and provides recommendations based on a loaded text corpus.
+
+## Features
+
+- **Spelling Correction**: Automatically corrects the spelling of words based on a given text corpus.
+- **Word Recommendations**: Provides suggestions for words that are similar to the input word.
+- **Trie Data Structure**: Efficiently stores and searches for words using a Trie data structure.
+- **Custom Corpus Loading**: Users can load their own text corpus to improve accuracy.
+- **Real-Time Recommendations**: Suggestions appear as you type, helping to find the correct word quickly.
+
+## Installation
+
+1. Clone the repository:
+   ```bash
+   git clone https://github.com/yourusername/spelling-correction.git
+   cd spelling-correction
+
