@@ -1,4 +1,4 @@
-# Spelling Correction and Word Recommendations
+# Smart Typing Assistant
 
 This project is a GUI-based spelling correction and word recommendation tool built using Python's `tkinter` library. It allows users to correct the spelling of input words and provides recommendations based on a loaded text corpus.
 
